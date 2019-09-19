@@ -2,7 +2,7 @@ let d = new Date();
 let newDate = d.getMonth() + '.' + d.getDate() + '.' + d.getFullYear();
 
 const countryCode = ",in";
-const apiKey = "&appid=6ee40d22cbd7ee597c4cea22ecf875f1";
+const apiKey = "************";
 const apiUnits = "&units=imperial";
 const baseURL = "http://api.openweathermap.org/data/2.5/weather?zip=";
 
